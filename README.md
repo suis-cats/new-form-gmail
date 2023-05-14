@@ -1,3 +1,25 @@
+# form-to-gmail
+
+## このWebアプリについて
+お問合わせフォームを作りました。フォームの内容は事前に環境変数で設定したgmailに送信されます。
+
+## 使用した主な技術
+
+- フレームワーク:
+  - Next.js: 13.4.2
+- 言語:
+  - TypeScript: 5.0.4
+- フロントエンド:
+  - React: 18.2.0
+  - React DOM: 18.2.0
+  - Tailwind CSS: 3.3.2
+- その他の技術:
+  - Node.jsの型定義: 20.1.4
+  - ESLint: 8.40.0
+  - PostCSS: 8.4.23
+  - Nodemailer: 6.9.2
+
+　
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
